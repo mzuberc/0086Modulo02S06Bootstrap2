@@ -1,0 +1,15 @@
+section {
+    min-height: 80vh;
+}
+
+.carousel-caption h5 {
+    color: black;
+}
+
+.carousel-caption p {
+    color: black;
+}
+
+.carousel-indicators button {
+    background-color: black !important;
+}
